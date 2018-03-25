@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16s</dimen>
+    <dimen name="activity_vertical_margin">16sp</dimen>
+    <dimen name="big_welcome">60sp</dimen>
+    <dimen name="welcome">40sp</dimen>
+</resources>
